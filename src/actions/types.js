@@ -1,0 +1,7 @@
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_SAVINGS_ACCOUNT = "GET_SAVINGS_ACCOUNT";
+export const GET_ALL_ACCOUNT = "GET_ALL_ACCOUNT";
+export const DEPOSIT = "DEPOSIT";
+export const WITHDRAW = "WITHDRAW";
+export const GET_TRANSACTIONS = "GET_TRANSACTIONS";
